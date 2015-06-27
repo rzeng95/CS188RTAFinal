@@ -1,0 +1,70 @@
+CREDITS LIST
+
+Snow Texture
+CGTextures
+http://www.cgtextures.com/texview.php?id=8537
+
+Railroad Tracks
+tyb525 via 3DWarehouse
+https://3dwarehouse.sketchup.com/model.html?id=56cd2505a5d75b3ee4cb01c3ed7a3332
+
+Gazebo (Initial spawn point)
+Jagram via 3DWarehouse
+https://3dwarehouse.sketchup.com/model.html?id=67b6f4e685fb66337bcf118226a89a3e
+
+Temple (Friendly snowman home) 
+JBFire via 3DWarehouse
+https://3dwarehouse.sketchup.com/model.html?id=c24e700b93ebce0ee0ba1fa4473e4a47
+
+Bonfire Torch Holder
+Clayton M. via 3DWarehouse
+https://3dwarehouse.sketchup.com/model.html?id=a133d2abda283ab428fb3510ad83287f
+
+Friendly Snowman
+imbadatthis via 3DWarehouse 
+https://3dwarehouse.sketchup.com/model.html?id=52ea1b617a1a6aefd2cda1460b0c2c5d
+
+Enemy Snowman 
+Connor G. via 3DWarehouse
+https://3dwarehouse.sketchup.com/model.html?id=udb8c2bc9-2a98-45f4-978c-e64f2c686f2f
+
+Boss Snowman
+Micky via 3DWarehouse 
+https://3dwarehouse.sketchup.com/model.html?id=7b841756c3a190d6a5124f6e42ac01bc
+
+Golden Key 
+Michael Lee Powell via 3DWarehouse
+https://3dwarehouse.sketchup.com/model.html?id=394b5033e0c4f2502701ea82a42c662b
+
+Golden Key 2 (not used)
+Path 3D via Turbosquid
+http://www.turbosquid.com/FullPreview/Index.cfm/ID/421391
+
+Targeting Crosshair
+ClipArt
+http://www.clipartbest.com/cliparts/KTn/g66/KTng66gTq.png
+
+Bonfire Sound Effect
+Soundbible 
+http://soundbible.com/1543-Fireplace.html
+
+CS:GO Sound Pack (Used for gun sound effects)
+Mixed by DaraEdits  
+Source: https://www.youtube.com/watch?v=2AtQiAdrfP4
+
+Nebula Skybox 
+Hedgehog Team via Unity Asset Store
+https://www.assetstore.unity3d.com/en/#!/content/3392
+
+Falling Snow Effect
+Unity Technologies via Unity Asset Store 
+https://www.assetstore.unity3d.com/en/#!/content/19248
+
+Wooden Bridge
+VR via Unity Asset Store
+https://www.assetstore.unity3d.com/en/#!/content/819
+
+Treasure Chest
+NOT_Lonely via Unity Asset Store
+https://www.assetstore.unity3d.com/en/#!/content/20179
+
